@@ -18,11 +18,20 @@ O objetivo é criar, em **JavaScript**, a lógica de um sistema simples de **Ami
 ## 📂 Estrutura do projeto
 
 ```
-┣ 📜 index.html # Estrutura da página
-┣ 📜 style.css # Estilização da página
-┣ 📜 app.js # Lógica em JavaScript
-┗ 📜 README.md # Documentação do projeto
+📦 amigo-secreto
+ ┣ 📜 index.html # Estrutura da página
+ ┣ 📜 style.css # Estilização da página
+ ┣ 📜 app.js # Lógica em JavaScript
+ ┗ 📜 README.md # Documentação do projeto
 ```
+
+## 📸 Demonstração
+
+![Demonstração do Amigo Secreto](assets/demonstracao.gif)
+
+## 🌐 Acesse o projeto
+
+👉 [Clique aqui para acessar o projeto no GitHub Pages](https://matheusdasilvaoliveira.github.io/amigo-secreto/)
 
 ## 🎯 Objetivos do desafio
 
