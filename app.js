@@ -17,7 +17,6 @@ function checaNomeInserido() {
     }
 
     limpaCampoNome(tagCampoInput);
-    console.log(amigos);
 }
 
 function criaAmigoNaLista() {
@@ -25,7 +24,6 @@ function criaAmigoNaLista() {
     listaAmigos.innerHTML = '';
 
     for (let i = 0; i < amigos.length; i++) {
-        console.log('Estou aqui');
         const itemAmigo = document.createElement('li');
         itemAmigo.className = 'item-amigo';
         itemAmigo.innerHTML = amigos[i];
